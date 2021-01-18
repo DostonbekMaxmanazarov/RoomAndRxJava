@@ -8,6 +8,9 @@ Ya’ni ma’lumotlarimiz tipini Streamda bersak yani LiveData yoki Rx da avtoma
 
 <img src="https://user-images.githubusercontent.com/77477995/104888641-12238080-597e-11eb-8b7c-f3d38235a6b1.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/77477995/104888658-18b1f800-597e-11eb-88d0-68d8d04fc4f8.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/77477995/104888660-194a8e80-597e-11eb-9b26-f33d371ecb7f.png" width="300" height="500">
 
+Room texnologiyasidagi Insert,Update,Delete funksiyalaridan foydalanganman.
+Itemlarni chapga,o'nga surish orqali o'chirish mumkin. Itemlarni bosish orqali Update qilish mumkin.
+
 
 
 
